@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://quinta-paraiso-da-mia.immerweb.com/sitemap.xml
